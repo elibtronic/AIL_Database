@@ -11,4 +11,8 @@ source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+rightsstatement,Rights Statement,,,DCTERMS.rights,license
+URL,Resource URL,,true,,
+annotation,Annotation,,,,
+submitter,Submitter,,,,
+citation,APA Citation,,,,
