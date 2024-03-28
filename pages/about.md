@@ -13,7 +13,7 @@ credits: true
 
 ![Splash Image](objects/splash.png)
 
-The AI in Libraries Database (AILD) represents a colleciton of items that have been discussed or utlized with during the Library Juice Academic class [AI in Libraries, For Skeptics](https://libraryjuiceacademy.com/shop/course/331-ai-and-libraries-for-skeptics/).
+The AI in Libraries Database (AILD) represents a colleciton of items that have been discussed or utlized with during the Library Juice Academic class [AI and Libraries, For Skeptics](https://libraryjuiceacademy.com/shop/course/331-ai-and-libraries-for-skeptics/).
 
 This database is not intended to be comprehensive listing of all material concerned with AI and Libaries. It is a selection of material that highlights the reasons why we should all be skeptical about the advancement of AI, and in particular, within the Library.
 
