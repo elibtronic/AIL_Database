@@ -17,6 +17,8 @@ The AI in Libraries Database (AILD) represents a colleciton of items that have b
 
 This database is not intended to be comprehensive listing of all material concerned with AI and Libaries. It is a selection of material that highlights the reasons why we should all be skeptical about the advancement of AI, and in particular, within the Library.
 
+The course is developed and taught by [Tim Ribaric](http://elibtronic.ca) 
+
 <!-- This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
