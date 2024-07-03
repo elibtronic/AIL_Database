@@ -17,6 +17,22 @@ The AI in Libraries Database (AILD) represents a colleciton of items that have b
 
 This database is not intended to be comprehensive listing of all material concerned with AI and Libaries. It is a selection of material that highlights the reasons why we should all be skeptical about the advancement of AI, and in particular, within the Library.
 
+## Inclusion Criteria
+
+Students enrolled in the class will be given an opportunity to suggest additions, updates, or removals as part of a final project for the course. 
+
+Some important things to keep in mind:
+
+- Items should speak to themes developed in the class
+- A focus on skepticism or critical understanding of AI is required
+- Some relevant connection to libraries or librarians is a must
+- All material should be availble freely without a pay wall
+
+
+
+
+----
+
 The course is developed and taught by [Tim Ribaric](http://elibtronic.ca) 
 
 <!-- This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
